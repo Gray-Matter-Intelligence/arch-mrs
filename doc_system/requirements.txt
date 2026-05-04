@@ -1,0 +1,13 @@
+# MkDocs Material theme and associated MkDocs build system
+mkdocs-material
+
+# For drawing diagrams (using draw.io)
+# Need to install draw.io desktop app and add the path to the executable in the system PATH variable for this plugin to work
+mkdocs-drawio-exporter
+
+# For UML diagrams
+mkdocs-build-plantuml-plugin
+
+# For tables e.g. XLSX
+mkdocs-table-reader-plugin
+openpyxl
